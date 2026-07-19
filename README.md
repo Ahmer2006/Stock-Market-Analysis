@@ -47,8 +47,7 @@ This project analyses historical stock market data using Python to compare the p
 Potential future developments include:
 
 - Portfolio optimisation
-- Sharpe Ratio and other risk-adjusted performance metrics
-- Monte Carlo portfolio simulations
+- Larger range of stocks to be used for portfolio simulations
 - Interactive dashboards
 - Additional financial indicators
 
