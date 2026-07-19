@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyses historical stock market data using Python to compare the performance of multiple companies. Using data from Yahoo Finance, the project calculates daily returns, measures volatility, examines correlations between stocks and constructs an equally weighted investment portfolio. The analysis demonstrates key financial concepts used in investment analysis and portfolio management.
+This project analyses historical stock market data using Python to compare the performance of multiple companies (Apple, Tesla, JP Morgan and Microsoft), in a range of industries (Technology, Banking and Automotive). Using data from Yahoo Finance, the project calculates daily returns, measures volatility, examines correlations between stocks and constructs an equally weighted investment portfolio. The analysis demonstrates key financial concepts used in investment analysis and portfolio management.
 
 ## Objectives
 
